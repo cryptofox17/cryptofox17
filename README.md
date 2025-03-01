@@ -10,7 +10,8 @@
 Hi, I'm cryptofox17 (aka cryptofoxdraws/platypure)
 
 I love to create things because... it's fun 
-<img src="https://github.com/user-attachments/assets/d31ed95e-78b0-47c8-b0b7-06a425f1364c" height="24" /> <br>
+<img src="https://github.com/user-attachments/assets/d31ed95e-78b0-47c8-b0b7-06a425f1364c"/>
+<br>
 I take inspiration from art, literature, and whatever surrounds me. <br>
 I'm a UX designer but I also love building stuff using React. <br>
 I think that summarises me, thanks for reading <img src="https://github.com/user-attachments/assets/0c8d4fc5-de0f-49ef-8a64-d768f725ae50" width="24" />
