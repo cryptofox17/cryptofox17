@@ -3,7 +3,7 @@
 
 ![line](https://github.com/user-attachments/assets/927a6ed5-89c0-434d-a5a7-210df04d6cd2)
 
-Hi, I'm cryptofox17 (sometimes I go by cryptofoxdraws or platypure)
+Hi, I'm cryptofox17 (aka cryptofoxdraws or platypure)
 
 I love to create things because... it's fun <img src="https://github.com/user-attachments/assets/d31ed95e-78b0-47c8-b0b7-06a425f1364c" height="40" width="auto"> <br>
 I take inspiration from art, literature, and whatever surrounds me. <br>
