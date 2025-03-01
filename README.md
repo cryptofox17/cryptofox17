@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/e7f72325-6e5a-4464-aaa9-be868ee34230" height="360px" width="auto">
-<br>
 <img src="https://github.com/user-attachments/assets/45aa6652-ee64-4612-8924-48627d02709d" height="64px" width="auto">
 
 ![line](https://github.com/user-attachments/assets/927a6ed5-89c0-434d-a5a7-210df04d6cd2)
