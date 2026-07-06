@@ -7,7 +7,7 @@
 
  <samp>
 
-Hi, I'm cryptofox17 (aka cryptofoxdraws/platypure)
+Hi, I'm cryptofox17
 
 I love to create things because... it's fun 
 <img src="https://github.com/user-attachments/assets/d31ed95e-78b0-47c8-b0b7-06a425f1364c"/>
