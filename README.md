@@ -4,7 +4,7 @@ Welcome to my profile! <img width="20" height="20" alt="meow_rave" src="https://
   
 Hi, I'm product designer and artist who sometimes codes (basic web dev stuff). I support FOSS and try to use open source tools as much as I can. Some of my favourite creative tools I use regularly include: [Krita](https://krita.org/en/), [Kdenlive](https://kdenlive.org/), [Penpot](https://penpot.app/), [Inkscape](https://inkscape.org/) & [Macshot](https://macshot.io/).
 
-<img width="600" height="1" alt="line" src="https://github.com/user-attachments/assets/5cb5798c-5c52-48e1-8f8e-561bb52d3101" />
+<img width="800" height="1" alt="line" src="https://github.com/user-attachments/assets/5cb5798c-5c52-48e1-8f8e-561bb52d3101" />
 
 
 I write reviews and random updates here: [Substack](https://scridori.substack.com/?utm_campaign=profile_chips)
