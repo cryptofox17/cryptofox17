@@ -2,7 +2,10 @@
 Welcome to my profile! <img width="20" height="20" alt="meow_rave" src="https://github.com/user-attachments/assets/2a3387f2-4f43-4c15-a272-73017aca3035" />
 
   
-Hi, I'm product designer and artist who sometimes codes (basic web dev stuff). I support FOSS and try to use open source tools as much as I can. Some of my favourite creative tools I use regularly include: [Krita](https://krita.org/en/), [Kdenlive](https://kdenlive.org/), [Penpot](https://penpot.app/), [Inkscape](https://inkscape.org/) & [Macshot](https://macshot.io/).
+Hi, I'm product designer and artist who sometimes codes (basic web dev stuff). 
+
+I support FOSS and try to use open source tools as much as I can. 
+Some of my fav creative tools I use regularly: [Krita](https://krita.org/en/), [Kdenlive](https://kdenlive.org/), [Penpot](https://penpot.app/), [Inkscape](https://inkscape.org/) & [Macshot](https://macshot.io/).
 
 <img width="800" height="1" alt="line" src="https://github.com/user-attachments/assets/5cb5798c-5c52-48e1-8f8e-561bb52d3101" />
 
